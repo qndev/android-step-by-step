@@ -1,0 +1,4 @@
+#Wed Mar 13 08:57:15 ICT 2019
+base.0=/home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/build/intermediates/transforms/dexMerger/debug/4
+path.0=classes.dex
+renamed.0=classes.dex

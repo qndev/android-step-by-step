@@ -1,0 +1,51 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/src/main/AndroidManifest.xml:2:1-19:12
+	package
+		ADDED from /home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/src/main/AndroidManifest.xml:4:11-33
+		INJECTED from /home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/src/main/AndroidManifest.xml
+		INJECTED from /home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/src/main/AndroidManifest.xml:3:11-36
+		INJECTED from /home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/src/main/AndroidManifest.xml
+		INJECTED from /home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/src/main/AndroidManifest.xml:5:11-69
+	android:versionCode
+		ADDED from /home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/src/main/AndroidManifest.xml:2:11-34
+		INJECTED from /home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/src/main/AndroidManifest.xml
+		INJECTED from /home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/src/main/AndroidManifest.xml:7:3-9:52
+	android:largeScreens
+		ADDED from /home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/src/main/AndroidManifest.xml:7:21-48
+	android:smallScreens
+		ADDED from /home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/src/main/AndroidManifest.xml:9:21-49
+	android:normalScreens
+		ADDED from /home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/src/main/AndroidManifest.xml:8:21-49
+application
+ADDED from /home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/src/main/AndroidManifest.xml:10:3-18:17
+	android:label
+		ADDED from /home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/src/main/AndroidManifest.xml:10:16-48
+activity#apt.tutorial.LunchList
+ADDED from /home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/src/main/AndroidManifest.xml:11:5-17:16
+	android:label
+		ADDED from /home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/src/main/AndroidManifest.xml:11:15-47
+	android:name
+		ADDED from /home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/src/main/AndroidManifest.xml:12:15-40
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/src/main/AndroidManifest.xml:13:7-16:23
+action#android.intent.action.MAIN
+ADDED from /home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/src/main/AndroidManifest.xml:14:9-61
+	android:name
+		ADDED from /home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/src/main/AndroidManifest.xml:14:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/src/main/AndroidManifest.xml:15:9-69
+	android:name
+		ADDED from /home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/src/main/AndroidManifest.xml:15:19-66

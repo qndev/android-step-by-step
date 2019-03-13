@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/build/intermediates/res/merged/debug/drawable_ball_green.png.flat",
+        "source": "/home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/src/main/res/drawable/ball_green.png"
+    },
+    {
+        "merged": "/home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/build/intermediates/res/merged/debug/drawable_ball_red.png.flat",
+        "source": "/home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/src/main/res/drawable/ball_red.png"
+    },
+    {
+        "merged": "/home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/build/intermediates/res/merged/debug/layout_row.xml.flat",
+        "source": "/home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/src/main/res/layout/row.xml"
+    },
+    {
+        "merged": "/home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/build/intermediates/res/merged/debug/drawable_ball_yellow.png.flat",
+        "source": "/home/quangnd/AndroidStudioProjects/android-step-by-step/FancyList/app/src/main/res/drawable/ball_yellow.png"
+    }
+]
